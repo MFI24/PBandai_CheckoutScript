@@ -1,0 +1,1 @@
+{"buy_now": {"keybind1": ["backspace"], "enable": [";"], "quantity": [0], "move_click_1": ["1025, 400"], "move_click_2": ["1028, 433"]}, "cart_checkout": {"keybind2": ["\\"], "move_click_3": ["1188, 1070"]}, "place_order": {"keybind3": ["Enter"], "move_click_4": ["1126, 938"]}}
